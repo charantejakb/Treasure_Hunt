@@ -1,0 +1,28 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# IDE and editor folders
+.vscode/
+.vs/
+.idea/
+*.csproj.user
+*.pidb
+*.booproj
+*.sln.docstates
+*.userprefs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Unity project user data
+UserSettings/
+
+# Local web server or package cache
+Packages/packages-lock.json
